@@ -19,11 +19,11 @@ bash
 python3 Password_Strength_Checker.py
 
 ## Concepts Demonstrated
-	•	String manipulation
-	•	Conditional logic and validation
-	•	User interaction via input()
-	•	Basic password security principles
+- String manipulation
+- Conditional logic and validation
+- User interaction via input()
+- Basic password security principles
 
 ## Requirements
-	•	Python 3.x
+- Python 3.x
 (No external libraries required)
