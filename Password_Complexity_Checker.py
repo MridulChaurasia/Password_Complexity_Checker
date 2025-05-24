@@ -32,7 +32,7 @@ def check_password_strength(password):
 		strength = "Weak"
 	return strength, feedback
 def main():
-	print("=== Password Strength Checker ===")
+	print("===== Password Strength Checker =====")
 	password = input("Enter your password: ")
 	strength, suggestions = check_password_strength(password)
 	print(f"\nPassword Strength: {strength}")
